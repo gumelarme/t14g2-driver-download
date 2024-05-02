@@ -1,0 +1,982 @@
+[
+  {
+    "name": "thinkpad-usb-c-dock-firmware_usbcdkfw3704_2.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/usbcdkfw3704_2.exe",
+    "version": "V3.7.04",
+    "severity": "recommended",
+    "releaseDate": "19-jun-2023"
+  },
+  {
+    "name": "thinkpad-usb-c-dock-firmware-readme_usbcdkfw3704_2.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/usbcdkfw3704_2.txt",
+    "version": "V3.7.04",
+    "severity": "recommended",
+    "releaseDate": "19-jun-2023"
+  },
+  {
+    "name": "firmware_usbcg2dkfw1120_2.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/usbcg2dkfw1120_2.exe",
+    "version": "1.1.20",
+    "severity": "recommended",
+    "releaseDate": "20-mar-2023"
+  },
+  {
+    "name": "readme-for-firmware_usbcg2dkfw1120_2.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/usbcg2dkfw1120_2.txt",
+    "version": "1.1.20",
+    "severity": "recommended",
+    "releaseDate": "07-mar-2024"
+  },
+  {
+    "name": "realtek-audio-driver_r1mar10w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mar10w.exe",
+    "version": "6.0.9366.1",
+    "severity": "critical",
+    "releaseDate": "02-sep-2022"
+  },
+  {
+    "name": "readme_r1mar10w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mar10w.txt",
+    "version": "6.0.9366.1",
+    "severity": "critical",
+    "releaseDate": "02-sep-2022"
+  },
+  {
+    "name": "realtek-audio-driver_r1mra05w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mra05w.exe",
+    "version": "6.0.9366.1",
+    "severity": "recommended",
+    "releaseDate": "02-sep-2022"
+  },
+  {
+    "name": "readme_r1mra05w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mra05w.txt",
+    "version": "6.0.9366.1",
+    "severity": "recommended",
+    "releaseDate": "02-sep-2022"
+  },
+  {
+    "name": "realtek-usb-audio-for-docking-station_n20pe10w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n20pe10w.exe",
+    "version": "6.3.9600.2299",
+    "severity": "recommended",
+    "releaseDate": "21-dec-2021"
+  },
+  {
+    "name": "readme_n20pe10w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n20pe10w.txt",
+    "version": "6.3.9600.2299",
+    "severity": "recommended",
+    "releaseDate": "21-dec-2021"
+  },
+  {
+    "name": "lenovo-audio-driver-for-docks_u3aud04w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/u3aud04w.exe",
+    "version": "1.31.38.54",
+    "severity": "recommended",
+    "releaseDate": "12-nov-2021"
+  },
+  {
+    "name": "readme_u3aud04w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/u3aud04w.txt",
+    "version": "1.31.38.54",
+    "severity": "recommended",
+    "releaseDate": "12-nov-2021"
+  },
+  {
+    "name": "bios-update-utility_r1muj55w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1muj55w.exe",
+    "version": "1.25",
+    "severity": "recommended",
+    "releaseDate": "28-dec-2023"
+  },
+  {
+    "name": "readme-for-bios-update-utility_r1muj55w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1muj55w.html",
+    "version": "1.25",
+    "severity": "recommended",
+    "releaseDate": "28-dec-2023"
+  },
+  {
+    "name": "bios-update-(bootable-cd)_r1muj55wd.iso",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1muj55wd.iso",
+    "version": "1.25",
+    "severity": "recommended",
+    "releaseDate": "28-dec-2023"
+  },
+  {
+    "name": "readme-(bootable-cd)_r1muj55wd.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1muj55wd.txt",
+    "version": "1.25",
+    "severity": "recommended",
+    "releaseDate": "28-dec-2023"
+  },
+  {
+    "name": "thinkpad-setup-settings-capture/playback-utility-for-windows-(srsetupwin)_n3xts04w.zip",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n3xts04w.zip",
+    "version": "5.12",
+    "severity": "recommended",
+    "releaseDate": "01-aug-2023"
+  },
+  {
+    "name": "readme_n3xts04w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n3xts04w.txt",
+    "version": "5.12",
+    "severity": "recommended",
+    "releaseDate": "01-aug-2023"
+  },
+  {
+    "name": "mediatek-mt7921-bluetooth-driver_r1mmb13w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mmb13w.exe",
+    "version": "23.33.2.204",
+    "severity": "critical",
+    "releaseDate": "22-dec-2023"
+  },
+  {
+    "name": "readme_r1mmb13w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mmb13w.txt",
+    "version": "23.33.2.204",
+    "severity": "critical",
+    "releaseDate": "22-dec-2023"
+  },
+  {
+    "name": "qualcomm-bluetooth-driver_r1mqb10w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqb10w.exe",
+    "version": "1.0.0.1574",
+    "severity": "recommended",
+    "releaseDate": "14-dec-2023"
+  },
+  {
+    "name": "readme_r1mqb10w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqb10w.txt",
+    "version": "1.0.0.1574",
+    "severity": "recommended",
+    "releaseDate": "14-dec-2023"
+  },
+  {
+    "name": "qualcomm-bluetooth-driver_r1mcb08w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mcb08w.exe",
+    "version": "2.0.0.1086",
+    "severity": "recommended",
+    "releaseDate": "14-dec-2023"
+  },
+  {
+    "name": "readme_r1mcb08w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mcb08w.txt",
+    "version": "2.0.0.1086",
+    "severity": "recommended",
+    "releaseDate": "14-dec-2023"
+  },
+  {
+    "name": "intel-bbluetooth-driver_r1mib07w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mib07w.exe",
+    "version": "22.210.0.3",
+    "severity": "recommended",
+    "releaseDate": "07-jun-2023"
+  },
+  {
+    "name": "readme_r1mib07w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mib07w.txt",
+    "version": "22.210.0.3",
+    "severity": "recommended",
+    "releaseDate": "07-jun-2023"
+  },
+  {
+    "name": "qualcomm-nfa765-bluetooth-driver_r1mqc02w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqc02w.exe",
+    "version": "1.0.0.963",
+    "severity": "recommended",
+    "releaseDate": "26-jan-2022"
+  },
+  {
+    "name": "readme_r1mqc02w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqc02w.txt",
+    "version": "1.0.0.963",
+    "severity": "recommended",
+    "releaseDate": "26-jan-2022"
+  },
+  {
+    "name": "realtek-bluetooth-driver_r1mrb06w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mrb06w.exe",
+    "version": "1.8.1039.3000",
+    "severity": "critical",
+    "releaseDate": "29-dec-2021"
+  },
+  {
+    "name": "readme_r1mrb06w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mrb06w.txt",
+    "version": "1.8.1039.3000",
+    "severity": "critical",
+    "releaseDate": "29-dec-2021"
+  },
+  {
+    "name": "integrated-camera-driver_n34cm24w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n34cm24w.exe",
+    "version": "5.0.18.169 (Sunplus Camera)/10.0.22000.20261 (Realtek Camera)/10.13.22621.20 (Sonix Camera)",
+    "severity": "recommended",
+    "releaseDate": "14-mar-2024"
+  },
+  {
+    "name": "readme_n34cm24w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n34cm24w.html",
+    "version": "5.0.18.169 (Sunplus Camera)/10.0.22000.20261 (Realtek Camera)/10.13.22621.20 (Sonix Camera)",
+    "severity": "recommended",
+    "releaseDate": "14-mar-2024"
+  },
+  {
+    "name": "integrated-ir-camera-firmware_r1mc201w_v2.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mc201w_v2.exe",
+    "version": "Chicony CKFJH48: 6318 Azurewave 9BF5406: 6301",
+    "severity": "critical",
+    "releaseDate": "13-sep-2023"
+  },
+  {
+    "name": "readme_r1mc201w_v2.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mc201w_v2.txt",
+    "version": "Chicony CKFJH48: 6318 Azurewave 9BF5406: 6301",
+    "severity": "critical",
+    "releaseDate": "13-sep-2023"
+  },
+  {
+    "name": "alcor-micro-usb-smart-card-reader-driver_n34sr05w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n34sr05w.exe",
+    "version": "1.9.17.2318",
+    "severity": "recommended",
+    "releaseDate": "07-aug-2023"
+  },
+  {
+    "name": "readme_n34sr05w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n34sr05w.txt",
+    "version": "1.9.17.2318",
+    "severity": "recommended",
+    "releaseDate": "07-aug-2023"
+  },
+  {
+    "name": "integrated-camera-firmware_r1mcc02w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mcc02w.exe",
+    "version": "LVI 0SF114N3:0006 /LVI 9SF126N3:0006 /Chicony CNFJH72:2793 /Chicony CNFKH63:2795",
+    "severity": "critical",
+    "releaseDate": "18-may-2023"
+  },
+  {
+    "name": "readme_r1mcc02w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mcc02w.txt",
+    "version": "LVI 0SF114N3:0006 /LVI 9SF126N3:0006 /Chicony CNFJH72:2793 /Chicony CNFKH63:2795",
+    "severity": "critical",
+    "releaseDate": "18-may-2023"
+  },
+  {
+    "name": "readme_r1mmr06w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mmr06w.txt",
+    "version": "10.0.22621.21359 (Realtek) / 1.1.30.0 (Genesys)",
+    "severity": "critical",
+    "releaseDate": "02-nov-2022"
+  },
+  {
+    "name": "multicard-driver_r1mmr06w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mmr06w.exe",
+    "version": "10.0.22621.21359 (Realtek) / 1.1.30.0 (Genesys)",
+    "severity": "critical",
+    "releaseDate": "02-nov-2022"
+  },
+  {
+    "name": "lenovo-bootable-generator_lenovo_bootable_generator2.1.1.exe",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/lenovo_bootable_generator2.1.1.exe",
+    "version": "2.1.1",
+    "severity": "recommended",
+    "releaseDate": "20-nov-2019"
+  },
+  {
+    "name": "lenovo-diagnostics-uefi-(x64)_ldiag_v04.34.001_bootable_uefi.zip",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_v04.34.001_bootable_uefi.zip",
+    "version": "v04.34.001",
+    "severity": "recommended",
+    "releaseDate": "14-mar-2024"
+  },
+  {
+    "name": "lenovo-diagnostics-uefi-(arm)_ldiag_v04.34.001_bootable_uefi_arm.zip",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_v04.34.001_bootable_uefi_arm.zip",
+    "version": "v04.34.001",
+    "severity": "recommended",
+    "releaseDate": "14-mar-2024"
+  },
+  {
+    "name": "release-notes_ldiag_v04.34.001_bootable_uefi_release_note.txt",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_v04.34.001_bootable_uefi_release_note.txt",
+    "version": "v04.34.001",
+    "severity": "recommended",
+    "releaseDate": "14-mar-2024"
+  },
+  {
+    "name": "user-guide_ldiag_v04.34.001_bootable_uefi_ug.pdf",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_v04.34.001_bootable_uefi_ug.pdf",
+    "version": "v04.34.001",
+    "severity": "recommended",
+    "releaseDate": "14-mar-2024"
+  },
+  {
+    "name": "lenovo-bootable-generator_lenovo_bootable_generator2.1.1.exe",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/lenovo_bootable_generator2.1.1.exe",
+    "version": "2.1.1",
+    "severity": "recommended",
+    "releaseDate": "24-oct-2023"
+  },
+  {
+    "name": "lenovo-linux-diagnostics---bootable-cd_ldiag_4.53.0_linux.iso",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.53.0_linux.iso",
+    "version": "4.53.0",
+    "severity": "recommended",
+    "releaseDate": "17-jan-2024"
+  },
+  {
+    "name": "release-note_ldiag_4.53.0_linux_release_notes.txt",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.53.0_linux_release_notes.txt",
+    "version": "4.53.0",
+    "severity": "recommended",
+    "releaseDate": "17-jan-2024"
+  },
+  {
+    "name": "user-guide_ldiag_4.53.0_linux_user_guide.pdf",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.53.0_linux_user_guide.pdf",
+    "version": "4.53.0",
+    "severity": "recommended",
+    "releaseDate": "17-jan-2024"
+  },
+  {
+    "name": "lenovo-diagnostics-for-windows_ldiag_5.11.0_windows_x64.exe",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_5.11.0_windows_x64.exe",
+    "version": "5.11.0",
+    "severity": "recommended",
+    "releaseDate": "15-aug-2023"
+  },
+  {
+    "name": "release-notes_ldiag_5.11.0_release_notes.txt",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_5.11.0_release_notes.txt",
+    "version": "5.11.0",
+    "severity": "recommended",
+    "releaseDate": "15-aug-2023"
+  },
+  {
+    "name": "user-guide_ldiag_5.11.0_ug.pdf",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_5.11.0_ug.pdf",
+    "version": "5.11.0",
+    "severity": "recommended",
+    "releaseDate": "15-aug-2023"
+  },
+  {
+    "name": "sccm-package-(version-1909)_tp_t14_gen2_1909_w1064_202202.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen2_1909_w1064_202202.exe",
+    "version": "02",
+    "severity": "recommended",
+    "releaseDate": "02-mar-2022"
+  },
+  {
+    "name": "readme-(version-1909)_tp_t14_gen2_1909_w1064_202202.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen2_1909_w1064_202202.txt",
+    "version": "02",
+    "severity": "recommended",
+    "releaseDate": "02-mar-2022"
+  },
+  {
+    "name": "sccm-package-(version-2004,-20h2,-21h1,-21h2,-22h2)_tp_t14_gen_2a_mt20xk-20xl_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_2a_mt20xk-20xl_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+    "version": "06",
+    "severity": "recommended",
+    "releaseDate": "30-mar-2023"
+  },
+  {
+    "name": "readme-(version-2004,-20h2,-21h1,-21h2,-22h2)_tp_t14_gen_2a_mt20xk-20xl_2004_20h2_21h1_21h2_22h2_w1064_202303.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_2a_mt20xk-20xl_2004_20h2_21h1_21h2_22h2_w1064_202303.txt",
+    "version": "06",
+    "severity": "recommended",
+    "releaseDate": "30-mar-2023"
+  },
+  {
+    "name": "sccm-package-(version-22h2,-21h2)_tp_t14_gen_2a_mt20xk-20xl_w11_21_22_202310.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_2a_mt20xk-20xl_w11_21_22_202310.exe",
+    "version": "03",
+    "severity": "recommended",
+    "releaseDate": "22-nov-2023"
+  },
+  {
+    "name": "readme-(version-22h2,-21h2)_tp_t14_gen_2a_mt20xk-20xl_w11_21_22_202310.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_2a_mt20xk-20xl_w11_21_22_202310.txt",
+    "version": "03",
+    "severity": "recommended",
+    "releaseDate": "22-nov-2023"
+  },
+  {
+    "name": "hsa-package-for-windows-11-(version-22h2,-21h2)_tp_t14_gen_2a_mt20xk-20xl_hsa_w11_21_202211.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_2a_mt20xk-20xl_hsa_w11_21_202211.exe",
+    "version": "02",
+    "severity": "recommended",
+    "releaseDate": "10-jan-2023"
+  },
+  {
+    "name": "readme-windows-11-(version-22h2,-21h2)_tp_t14_gen_2a_mt20xk-20xl_hsa_w11_21_202211.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_2a_mt20xk-20xl_hsa_w11_21_202211.txt",
+    "version": "02",
+    "severity": "recommended",
+    "releaseDate": "10-jan-2023"
+  },
+  {
+    "name": "hsa-package-for-windows-10-(version-20h2,-21h1,-22h2)_tp_t14_gen_2a_mt20xk-20xl_hsa_20h2_21h1_21h2_22h2_202303.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_2a_mt20xk-20xl_hsa_20h2_21h1_21h2_22h2_202303.exe",
+    "version": "04",
+    "severity": "recommended",
+    "releaseDate": "30-mar-2023"
+  },
+  {
+    "name": "readme-windows-10-(version-20h2,-21h1,-22h2)_tp_t14_gen_2a_mt20xk-20xl_hsa_20h2_21h1_21h2_22h2_202303.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_2a_mt20xk-20xl_hsa_20h2_21h1_21h2_22h2_202303.txt",
+    "version": "05",
+    "severity": "recommended",
+    "releaseDate": "30-mar-2023"
+  },
+  {
+    "name": "sccm-package_tp_t14_p14s_gen_2a_mt20xk-20xl-21a0-21a1_pe10_w1064_202104.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_p14s_gen_2a_mt20xk-20xl-21a0-21a1_pe10_w1064_202104.exe",
+    "version": "01",
+    "severity": "recommended",
+    "releaseDate": "28-may-2021"
+  },
+  {
+    "name": "readme_tp_t14_p14s_gen_2a_mt20xk-20xl-21a0-21a1_pe10_w1064_202104.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_p14s_gen_2a_mt20xk-20xl-21a0-21a1_pe10_w1064_202104.txt",
+    "version": "01",
+    "severity": "recommended",
+    "releaseDate": "28-may-2021"
+  },
+  {
+    "name": "synaptics-fingerprint-driver_r1bfp10w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1bfp10w.exe",
+    "version": "6.0.64.1105",
+    "severity": "critical",
+    "releaseDate": "07-mar-2024"
+  },
+  {
+    "name": "readme_r1bfp10w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1bfp10w.html",
+    "version": "6.0.64.1105",
+    "severity": "critical",
+    "releaseDate": "07-mar-2024"
+  },
+  {
+    "name": "amd-kit-driver_r1ma133w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1ma133w.exe",
+    "version": "31.0.21024.5005",
+    "severity": "recommended",
+    "releaseDate": "16-jan-2024"
+  },
+  {
+    "name": "readme_r1ma133w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1ma133w.html",
+    "version": "31.0.21024.5005",
+    "severity": "recommended",
+    "releaseDate": "16-jan-2024"
+  },
+  {
+    "name": "thinkpad-monitor-file_r1mmi05w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mmi05w.exe",
+    "version": "6.14.15.0",
+    "severity": "recommended",
+    "releaseDate": "09-sep-2022"
+  },
+  {
+    "name": "readme_r1mmi05w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mmi05w.txt",
+    "version": "6.14.15.0",
+    "severity": "recommended",
+    "releaseDate": "09-sep-2022"
+  },
+  {
+    "name": "amd-processor-power-management-support_r1mcp03w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mcp03w.exe",
+    "version": "7.0.3.5",
+    "severity": "critical",
+    "releaseDate": "30-mar-2022"
+  },
+  {
+    "name": "readme_r1mcp03w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mcp03w.txt",
+    "version": "7.0.3.5",
+    "severity": "critical",
+    "releaseDate": "30-mar-2022"
+  },
+  {
+    "name": "amd-io-driver_r1mch07w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mch07w.exe",
+    "version": "1.0.14.2/2.2.0.130/1.2.0.118/5.17.0.0/5.12.0.38/1.0.29.0",
+    "severity": "recommended",
+    "releaseDate": "27-dec-2021"
+  },
+  {
+    "name": "readme_r1mch07w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mch07w.txt",
+    "version": "1.0.14.2/2.2.0.130/1.2.0.118/5.17.0.0/5.12.0.38/1.0.29.0",
+    "severity": "recommended",
+    "releaseDate": "27-dec-2021"
+  },
+  {
+    "name": "synaptics-ultranav-driver_r1mst13w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mst13w.exe",
+    "version": "19.5.19.95",
+    "severity": "recommended",
+    "releaseDate": "14-nov-2022"
+  },
+  {
+    "name": "readme_r1mst13w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mst13w.txt",
+    "version": "19.5.19.95",
+    "severity": "recommended",
+    "releaseDate": "14-nov-2022"
+  },
+  {
+    "name": "synaptics-touchpad-firmware_n3kgb01w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n3kgb01w.exe",
+    "version": "3942087",
+    "severity": "critical",
+    "releaseDate": "30-sep-2022"
+  },
+  {
+    "name": "readme_n3kgb01w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n3kgb01w.txt",
+    "version": "3942087",
+    "severity": "critical",
+    "releaseDate": "30-sep-2022"
+  },
+  {
+    "name": "realtek-lan-adapter-software_r1mem02w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mem02w.exe",
+    "version": "1166.02.0909.2021/1168.02.0909.2021",
+    "severity": "recommended",
+    "releaseDate": "05-jan-2022"
+  },
+  {
+    "name": "readme_r1mem02w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mem02w.txt",
+    "version": "1166.02.0909.2021/1168.02.0909.2021",
+    "severity": "recommended",
+    "releaseDate": "05-jan-2022"
+  },
+  {
+    "name": "realtek-dash-client-service_r1mdc01w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mdc01w.exe",
+    "version": "4.0.22.0",
+    "severity": "recommended",
+    "releaseDate": "27-jul-2021"
+  },
+  {
+    "name": "readme_r1mdc01w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mdc01w.txt",
+    "version": "4.0.22.0",
+    "severity": "recommended",
+    "releaseDate": "27-jul-2021"
+  },
+  {
+    "name": "realtek-lan-adapter-software_r1mer04w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mer04w.exe",
+    "version": "10.50.511.2021",
+    "severity": "critical",
+    "releaseDate": "26-jul-2021"
+  },
+  {
+    "name": "readme_r1mer04w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mer04w.txt",
+    "version": "10.50.511.2021",
+    "severity": "critical",
+    "releaseDate": "26-jul-2021"
+  },
+  {
+    "name": "qualcomm-nfa765-wlan-driver_r1mqw13w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqw13w.exe",
+    "version": "1.0.0.1633",
+    "severity": "recommended",
+    "releaseDate": "19-mar-2024"
+  },
+  {
+    "name": "readme_r1mqw13w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqw13w.html",
+    "version": "1.0.0.1633",
+    "severity": "recommended",
+    "releaseDate": "19-mar-2024"
+  },
+  {
+    "name": "qualcomm-nfa765-wlan-driver_r1mcw09w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mcw09w.exe",
+    "version": "2.0.0.1152",
+    "severity": "recommended",
+    "releaseDate": "15-mar-2024"
+  },
+  {
+    "name": "readme_r1mcw09w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mcw09w.html",
+    "version": "2.0.0.1152",
+    "severity": "recommended",
+    "releaseDate": "15-mar-2024"
+  },
+  {
+    "name": "mediatek-mt7921-wlan-driver_r1mmw14w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mmw14w.exe",
+    "version": "23.33.2.563",
+    "severity": "critical",
+    "releaseDate": "22-dec-2023"
+  },
+  {
+    "name": "readme_r1mmw14w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mmw14w.txt",
+    "version": "23.33.2.563",
+    "severity": "critical",
+    "releaseDate": "22-dec-2023"
+  },
+  {
+    "name": "realtek-wlan-driver_r1mrw10w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mrw10w.exe",
+    "version": "6001.10.355.1",
+    "severity": "critical",
+    "releaseDate": "02-nov-2023"
+  },
+  {
+    "name": "readme_r1mrw10w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mrw10w.txt",
+    "version": "6001.10.355.1",
+    "severity": "critical",
+    "releaseDate": "02-nov-2023"
+  },
+  {
+    "name": "intel-wlan-driver_r1miw09w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1miw09w.exe",
+    "version": "22.240.0.6",
+    "severity": "recommended",
+    "releaseDate": "23-aug-2023"
+  },
+  {
+    "name": "readme_r1miw09w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1miw09w.txt",
+    "version": "22.240.0.6",
+    "severity": "recommended",
+    "releaseDate": "23-aug-2023"
+  },
+  {
+    "name": "qualcomm-nfa765-wlan-driver_r1mqn02w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqn02w.exe",
+    "version": "1.0.0.963",
+    "severity": "recommended",
+    "releaseDate": "26-jan-2022"
+  },
+  {
+    "name": "readme_r1mqn02w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqn02w.txt",
+    "version": "1.0.0.963",
+    "severity": "recommended",
+    "releaseDate": "26-jan-2022"
+  },
+  {
+    "name": "quectel-em120r-gl-wireless-wan-driver_nz7wj11w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/nz7wj11w.exe",
+    "version": "1.0.0.36",
+    "severity": "critical",
+    "releaseDate": "23-oct-2023"
+  },
+  {
+    "name": "readme_nz7wj11w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/nz7wj11w.txt",
+    "version": "1.0.0.36",
+    "severity": "critical",
+    "releaseDate": "23-oct-2023"
+  },
+  {
+    "name": "quectel-em05-wwan-software_r1mqu12w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqu12w.exe",
+    "version": "2.0.0.17",
+    "severity": "critical",
+    "releaseDate": "29-nov-2022"
+  },
+  {
+    "name": "readme_r1mqu12w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mqu12w.txt",
+    "version": "2.0.0.17",
+    "severity": "critical",
+    "releaseDate": "29-nov-2022"
+  },
+  {
+    "name": "lenovo-power-management-driver_n3yku02w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n3yku02w.exe",
+    "version": "1.69.15.0",
+    "severity": "recommended",
+    "releaseDate": "15-dec-2023"
+  },
+  {
+    "name": "readme_n3yku02w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n3yku02w.html",
+    "version": "1.69.15.0",
+    "severity": "recommended",
+    "releaseDate": "18-apr-2024"
+  },
+  {
+    "name": "lenovo-power-and-battery-driver_n1fupa1w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n1fupa1w.exe",
+    "version": "10.1.7.0",
+    "severity": "recommended",
+    "releaseDate": "08-mar-2024"
+  },
+  {
+    "name": "readme_n1fupa1w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n1fupa1w.html",
+    "version": "10.1.7.0",
+    "severity": "recommended",
+    "releaseDate": "18-apr-2024"
+  },
+  {
+    "name": "lenovo-base-utility-for-windows_r18vu56w_v2.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r18vu56w_v2.exe",
+    "version": "10.8.1.4",
+    "severity": "recommended",
+    "releaseDate": "18-apr-2024"
+  },
+  {
+    "name": "readme_r18vu56w_v2.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r18vu56w_v2.html",
+    "version": "10.8.1.4",
+    "severity": "recommended",
+    "releaseDate": "29-apr-2024"
+  },
+  {
+    "name": "lenovo-battery-firmware-update-utility_n2tbr07w_v2.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n2tbr07w_v2.exe",
+    "version": "1.0.6",
+    "severity": "recommended",
+    "releaseDate": "26-apr-2024"
+  },
+  {
+    "name": "readme_n2tbr07w_v2.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n2tbr07w_v2.html",
+    "version": "1.0.6",
+    "severity": "recommended",
+    "releaseDate": "26-apr-2024"
+  },
+  {
+    "name": "lenovo-smart-standby-driver_n25by25w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n25by25w.exe",
+    "version": "4.2.54.0",
+    "severity": "recommended",
+    "releaseDate": "08-mar-2023"
+  },
+  {
+    "name": "readme_n25by25w.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n25by25w.html",
+    "version": "4.2.54.0",
+    "severity": "recommended",
+    "releaseDate": "18-apr-2024"
+  },
+  {
+    "name": "lenovo-intelligent-thermal-solution-driver_n3ydy51w_v2.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n3ydy51w_v2.exe",
+    "version": "2.1.14.0",
+    "severity": "recommended",
+    "releaseDate": "13-apr-2024"
+  },
+  {
+    "name": "readme_n3ydy51w_v2.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/n3ydy51w_v2.html",
+    "version": "2.1.14.0",
+    "severity": "recommended",
+    "releaseDate": "13-apr-2024"
+  },
+  {
+    "name": "readme_lenovoprovisiondolbyvisionp08.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/lenovoprovisiondolbyvisionp08.html",
+    "version": "1.7.4.4",
+    "severity": "recommended",
+    "releaseDate": "14-feb-2024"
+  },
+  {
+    "name": "dolby-vision-provisioning-kit_lenovoprovisiondolbyvisionp08.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/lenovoprovisiondolbyvisionp08.exe",
+    "version": "1.7.4.4",
+    "severity": "recommended",
+    "releaseDate": "14-feb-2024"
+  },
+  {
+    "name": "generic-displaylink-driver_dislink1123146.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/dislink1123146.exe",
+    "version": "11.2.3146.0",
+    "severity": "recommended",
+    "releaseDate": "26-dec-2023"
+  },
+  {
+    "name": "generic-displaylink-driver-readme_dislink1123146.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/dislink1123146.html",
+    "version": "11.2.3146.0",
+    "severity": "recommended",
+    "releaseDate": "07-feb-2024"
+  },
+  {
+    "name": "lmc-server_LenovoManageabilityCommanderSetup.msi",
+    "link": "https://download.lenovo.com/lmc/LenovoManageabilityCommanderSetup.msi",
+    "version": "2.00",
+    "severity": "recommended",
+    "releaseDate": "07-nov-2023"
+  },
+  {
+    "name": "lmc-agent_LenovoManageabilityCommanderAgentSetup.msi",
+    "link": "https://download.lenovo.com/lmc/LenovoManageabilityCommanderAgentSetup.msi",
+    "version": "2.00",
+    "severity": "recommended",
+    "releaseDate": "07-nov-2023"
+  },
+  {
+    "name": "user-guide_lera_lmc_02.00.000_user_guide.pdf",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/lera_lmc_02.00.000_user_guide.pdf",
+    "version": "2.00",
+    "severity": "recommended",
+    "releaseDate": "07-nov-2023"
+  },
+  {
+    "name": "lenovo-migration-assistant_lma2146.exe",
+    "link": "https://download.lenovo.com/pccbbs/desktop/lma2146.exe",
+    "version": "2.1.4.6",
+    "severity": "recommended",
+    "releaseDate": "09-mar-2022"
+  },
+  {
+    "name": "readme_lma2146.txt",
+    "link": "https://download.lenovo.com/pccbbs/desktop/lma2146.txt",
+    "version": "2.1.4.6",
+    "severity": "recommended",
+    "releaseDate": "09-mar-2022"
+  },
+  {
+    "name": "ti-pd-driver_r1mps03w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mps03w.exe",
+    "version": "1.0.11.1",
+    "severity": "recommended",
+    "releaseDate": "30-dec-2021"
+  },
+  {
+    "name": "readme_r1mps03w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mps03w.txt",
+    "version": "1.0.11.1",
+    "severity": "recommended",
+    "releaseDate": "30-dec-2021"
+  },
+  {
+    "name": "npc300-nfc-software_r1mnf02w.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mnf02w.exe",
+    "version": "12.0.6.0",
+    "severity": "recommended",
+    "releaseDate": "30-dec-2021"
+  },
+  {
+    "name": "readme_r1mnf02w.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/r1mnf02w.txt",
+    "version": "12.0.6.0",
+    "severity": "recommended",
+    "releaseDate": "30-dec-2021"
+  },
+  {
+    "name": "lenovo-system-interface-foundation_sif11ww203.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/sif11ww203.exe",
+    "version": "1.1.20.3",
+    "severity": "recommended",
+    "releaseDate": "22-dec-2021"
+  },
+  {
+    "name": "readme_sif11ww203.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/sif11ww203.txt",
+    "version": "1.1.20.3",
+    "severity": "recommended",
+    "releaseDate": "22-dec-2021"
+  },
+  {
+    "name": "lenovo-quick-clean_lenovo_quick_clean_1.02.0051.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/lenovo_quick_clean_1.02.0051.exe",
+    "version": "1.02.0051",
+    "severity": "recommended",
+    "releaseDate": "21-dec-2021"
+  },
+  {
+    "name": "readme_lenovo_quick_clean_1.02.0051_readme.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/lenovo_quick_clean_1.02.0051_readme.txt",
+    "version": "1.02.0051",
+    "severity": "recommended",
+    "releaseDate": "21-dec-2021"
+  },
+  {
+    "name": "smart-display_MSStoreSmartDisplays.msixbundle",
+    "link": "https://download.lenovo.com/consumer/mobiles/MSStoreSmartDisplays.msixbundle",
+    "version": "1.0.0.10",
+    "severity": "recommended",
+    "releaseDate": "08-apr-2021"
+  },
+  {
+    "name": "lenovo-message-center-plus-uninstaller_mcpuninstaller11.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/mcpuninstaller11.exe",
+    "version": "1.1.0.0",
+    "severity": "recommended",
+    "releaseDate": "07-jul-2017"
+  },
+  {
+    "name": "readme-for-lenovo-message-center-plus-uninstaller_mcpuninstaller11.txt",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/mcpuninstaller11.txt",
+    "version": "1.1.0.0",
+    "severity": "recommended",
+    "releaseDate": "07-jul-2017"
+  },
+  {
+    "name": "nvme-solid-state-drive-firmware-update-utility_fwnva67.exe",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/fwnva67.exe",
+    "version": "67",
+    "severity": "critical",
+    "releaseDate": "18-apr-2024"
+  },
+  {
+    "name": "readme_fwnva67.html",
+    "link": "https://download.lenovo.com/pccbbs/mobiles/fwnva67.html",
+    "version": "67",
+    "severity": "critical",
+    "releaseDate": "18-apr-2024"
+  },
+  {
+    "name": "readme_system_update_5.08.02.25.txt",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.02.25.txt",
+    "version": "5.08.02.25",
+    "severity": "recommended",
+    "releaseDate": "12-sep-2023"
+  },
+  {
+    "name": "lenovo-system-update_system_update_5.08.02.25.exe",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.02.25.exe",
+    "version": "5.08.02.25",
+    "severity": "recommended",
+    "releaseDate": "12-sep-2023"
+  },
+  {
+    "name": "readme-for-system-update-3.16_systemupdate3.16.0010-2016-07-20.txt",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/systemupdate3.16.0010-2016-07-20.txt",
+    "version": "3.16.0010",
+    "severity": "recommended",
+    "releaseDate": "09-aug-2016"
+  },
+  {
+    "name": "system-update-3.16_systemupdate3.16.0010-2016-07-20.exe",
+    "link": "https://download.lenovo.com/pccbbs/thinkvantage_en/systemupdate3.16.0010-2016-07-20.exe",
+    "version": "3.16.0010",
+    "severity": "recommended",
+    "releaseDate": "09-aug-2016"
+  },
+  {
+    "name": "patch-to-support-firefox-for-client-security-solution-8.3_css_firefox_patch_83_20110831.exe",
+    "link": "https://download.lenovo.com/ibmdl/pub/pc/pccbbs/thinkvantage_en/css_firefox_patch_83_20110831.exe",
+    "version": "1.1",
+    "severity": "recommended",
+    "releaseDate": "05-sep-2011"
+  },
+  {
+    "name": "readme-for-patch-to-support-firefox-for-client-security-solution-8.3_css_firefox_patch_83_20110831.txt",
+    "link": "https://download.lenovo.com/ibmdl/pub/pc/pccbbs/thinkvantage_en/css_firefox_patch_83_20110831.txt",
+    "version": "1.1",
+    "severity": "recommended",
+    "releaseDate": "05-sep-2011"
+  }
+]
