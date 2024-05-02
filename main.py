@@ -7,9 +7,30 @@ from pathlib import Path
 
 DOWNLOAD_DIR = "downloads"
 
+log = logging.getLogger(__name__)
+console = logging.StreamHandler()
+c_format = logging.Formatter('[%(levelname)s:%(name)s] - %(message)s')
+console.setFormatter(c_format)
+
+log.setLevel(logging.INFO)
+log.addHandler(console)
+
+
 def get_file_list(filename: str) -> list[dict[str, any]]:
     with open(filename, 'r') as f:
         return json.loads(f.read())
+
+
+def sizeof_fmt(num, suffix="B"):
+    for unit in ("", "Ki", "Mi", "Gi", "Ti", "Pi", "Ei", "Zi"):
+        if abs(num) < 1024.0:
+            return f"{num:3.1f}{unit}{suffix}"
+        num /= 1024.0
+    return f"{num:.1f}Yi{suffix}"
+
+def get_download_size(link: str) -> str:
+    resp = httpx.head(link)
+    return sizeof_fmt(int(resp.headers["content-length"]))
 
 
 def main():
@@ -18,11 +39,14 @@ def main():
     files = get_file_list("driver-list.json")
     for file in files:
         filename = os.path.join(DOWNLOAD_DIR, file["name"])
-        logging.info(f"Downloading {file['link']}")
+        link = file['link']
+        file_size = get_download_size(link)
+        log.info(f"Downloading {filename} ({file_size})")
+
         try:
-            download_file(filename, file["link"])
+            download_file(filename, link)
         except httpx.HTTPError:
-            logging.error(f"Failed downloading {filename}")
+            log.error(f"Failed downloading {filename}")
             continue
 
 
@@ -35,6 +59,5 @@ def download_file(filename: str, link: str):
                 f.write(chunk)
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)
     main()
 
