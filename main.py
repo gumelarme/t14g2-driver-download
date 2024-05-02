@@ -21,7 +21,7 @@ def get_file_list(filename: str) -> list[dict[str, any]]:
         return json.loads(f.read())
 
 
-def sizeof_fmt(num, suffix="B"):
+def humane_size(num, suffix="B"):
     for unit in ("", "Ki", "Mi", "Gi", "Ti", "Pi", "Ei", "Zi"):
         if abs(num) < 1024.0:
             return f"{num:3.1f}{unit}{suffix}"
@@ -30,7 +30,13 @@ def sizeof_fmt(num, suffix="B"):
 
 def get_download_size(link: str) -> str:
     resp = httpx.head(link)
-    return sizeof_fmt(int(resp.headers["content-length"]))
+    return int(resp.headers["content-length"])
+
+def is_file_downloaded(filename: str, expected_size: int) -> bool:
+    try:
+        return expected_size == os.path.getsize(filename)
+    except FileNotFoundError:
+        return False
 
 
 def main():
@@ -41,13 +47,18 @@ def main():
         filename = os.path.join(DOWNLOAD_DIR, file["name"])
         link = file['link']
         file_size = get_download_size(link)
-        log.info(f"Downloading {filename} ({file_size})")
+        if is_file_downloaded(filename, file_size):
+            log.info(f"{filename} - EXIST")
+            continue
 
+        log.info(f"Downloading {filename} ({humane_size(file_size)})")
         try:
             download_file(filename, link)
         except httpx.HTTPError:
             log.error(f"Failed downloading {filename}")
             continue
+
+        log.info(f"{filename} - DONE")
 
 
 def download_file(filename: str, link: str):
