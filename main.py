@@ -2,6 +2,7 @@ import os
 import httpx
 import json
 import logging
+from tqdm import tqdm
 
 from pathlib import Path
 
@@ -53,7 +54,7 @@ def main():
 
         log.info(f"Downloading {filename} ({humane_size(file_size)})")
         try:
-            download_file(filename, link)
+            download_file(filename, link, file_size)
         except httpx.HTTPError:
             log.error(f"Failed downloading {filename}")
             continue
@@ -61,12 +62,14 @@ def main():
         log.info(f"{filename} - DONE")
 
 
-def download_file(filename: str, link: str):
+def download_file(filename: str, link: str, expected_file_size: int):
     with httpx.stream("GET", link) as r:
         r.raise_for_status()
 
         with open(filename, 'wb') as f:
-            for chunk in r.iter_bytes(chunk_size=2 ** 13):
+            chunk_size = 2 ** 13
+            total = expected_file_size // chunk_size
+            for chunk in tqdm(r.iter_bytes(chunk_size=2 ** 13), desc="Downloading", total=total):
                 f.write(chunk)
 
 if __name__ == "__main__":

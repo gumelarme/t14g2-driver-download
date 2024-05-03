@@ -8,7 +8,7 @@ $$("div.table-children-row-warpper").map(x => {
     const releaseDate = x.querySelector(".table-body-width-item:has(.table-version) + div").innerText.toLowerCase().replaceAll(" ", "-");
 
     return {
-        name: friendlyName + "_" + link.substring(link.lastIndexOf("/") + 1),
+        name: friendlyName + "_" + link.substring(link.lastIndexOf("/").replaceAll("/", "-") + 1),
         link,
         version,
         severity,
